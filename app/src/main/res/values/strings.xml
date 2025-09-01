@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="tiana_Intro">Hello World! My name is Tiana and I am currently doing my Masters in Information Science and Technology at Temple University. I have a cat named Lili and she is the sweetest cat ever!</string>
+    <string name="button_text">Say Hello!</string>
+</resources>
