@@ -15,7 +15,7 @@ This is my submission for the **CodePath Android Intro App**. The app is a simpl
 
 ## Video Walkthrough
 
-[Watch Walkthrough Video](app/src/main/assets/CodePathIntroApp.mp4)
+[Watch Walkthrough Video](app/src/main/assets/CodePathIntroApp.mov)
 
 ---
 
