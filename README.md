@@ -1,26 +1,46 @@
-# My CodePath Intro App
+# Android Prework - *Hello World*
 
-This is my submission for the **CodePath Android Intro App**. The app is a simple introduction app that displays a pet image, some information about me, and includes a button that shows a toast message.
+Submitted by: **Tiana Zaman**
 
----
+**Hello World** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast.
 
-## Features
+Time spent: **10** hours spent in total
 
-- **Pet Image Display**: Shows an image of my pet at the top of the screen.
-- **Introduction Text**: Displays a short introduction about me.
-- **Interactive Button**: A button labeled **"Say Hello!"** that displays a toast message:  
-  `"Hello to you too!"` when tapped.
+## Required Features
 
----
+The following **required** functionality is completed:
+
+* [X] Image and introductory message displayed on screen
+* [X] Button displayed on screen
+* [X] Toast with message appears when button is pressed
+
+The following **optional** features are implemented:
+
+* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
+Here's a walkthrough of implemented features:
+
 [Watch Walkthrough Video](app/src/main/assets/CodePathIntroApp.mov)
 
----
+## Notes
 
-## Built With
+* When Android first generated the project, it created a layout-v34 subfolder. It took me some time to understand how it works and why it was not needed for my simple app.
+* I had difficulty generating SSH key for authentication on GitHub.
 
-- **Language**: Kotlin
-- **IDE**: Android Studio
-- **Android SDK**
+## License
+
+    Copyright [2025] [Tiana Zaman]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
