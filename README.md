@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[Watch Walkthrough Video](app/src/main/assets/CodePathIntroApp.mov)
+[Watch Walkthrough Video](app/src/main/assets/CodePathIntroApp.mp4)
 
 ## Notes
 
